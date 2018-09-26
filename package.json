@@ -26,8 +26,8 @@
     "eslint-config-loopback": "^8.0.0"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "public",
+    "url": "https://github.com/LintangWisesa/Loopback_MySQL"
   },
   "license": "UNLICENSED",
   "description": "tes_loop"
