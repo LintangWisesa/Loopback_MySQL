@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "lintang_mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "mysql://root:12345@localhost/showroom",
+    "database": "showroom",
+    "password": "12345",
+    "name": "lintang_mysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

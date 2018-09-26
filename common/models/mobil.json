@@ -1,0 +1,34 @@
+{
+  "name": "mobil",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "nama": {
+      "type": "string",
+      "required": true
+    },
+    "merk": {
+      "type": "string",
+      "required": true
+    },
+    "tahun": {
+      "type": "number",
+      "required": true
+    },
+    "harga": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
